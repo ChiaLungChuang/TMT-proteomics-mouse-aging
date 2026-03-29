@@ -100,7 +100,7 @@ Each tissue script is structurally identical and runs independently. The 8 tissu
 
 ## Requirements
 
-**R version:** ≥ 4.0
+**R version:** ≥ 4.5.1
 
 **CRAN packages:**
 ```r
