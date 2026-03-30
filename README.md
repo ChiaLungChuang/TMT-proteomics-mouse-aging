@@ -179,7 +179,7 @@ Scripts within each stage are independent of each other within that stage, but S
 3. Run scripts in `03_insolubility-sub-analysis/` (any order, after Stage 1 and 2)
 
 <p align="center">
-  <img src="figure/image1.png" width="800">
+  <img src="image1.png" width="800">
 </p>
 
 
